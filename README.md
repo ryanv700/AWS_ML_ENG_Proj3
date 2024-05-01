@@ -39,8 +39,11 @@ response=predictor.predict(img_bytes, initial_args={"ContentType": "image/jpeg"}
 
 Screenshots
 
+This shows what your completed training jobs should look like in the SageMaker Studio Portal
+
 ![completed_training_jobs](https://github.com/ryanv700/AWS_ML_ENG_Proj3/assets/56355045/805ac99d-2ccb-46a9-a7f3-8b0e58ec3d6e)
 
+This is what you should see in the Endpoints after deploying your model
 
 ![AWS_ML_ENG_Proj_3_model_endpoint_Screenshot](https://github.com/ryanv700/AWS_ML_ENG_Proj3/assets/56355045/d85404ed-f9e3-4caf-995b-86d173a3cee2)
 
